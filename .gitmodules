@@ -1,0 +1,3 @@
+[submodule "LibSubModule/vendor/Mathlib"]
+	path = LibSubModule/vendor/Mathlib
+	url = https://github.com/johnraz99/Mathlib.git
