@@ -1,6 +1,8 @@
 // MathClient.cpp
 // compile with: cl /EHsc MathClient.cpp /link MathLibrary.lib
 
+// add superfluous comment for github testing
+
 #include <iostream>
 #include "MathLibrary.h"
 
